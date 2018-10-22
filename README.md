@@ -1,6 +1,8 @@
 # Timeless
 Automatic wage micro-payment system through the Interledger protocol
 
+![Timeless](https://preview.ibb.co/g0yFO0/Capture.jpg)
+
 ## What it does
 Get paid in real-time. Stream your earnings by the second through the cryptocurrency interledger. Due to the high overhead of online financial transactions, streaming small payments in real time like this has not historically been possible. However, thanks to Ripple's micro-payment infrastructure, it is now feasible to send the equivalent of pennies (or fractions of them) in seconds with minimial financial overhead. Timeless uses this technology to enable employers to pay employees through a stream of Ripple micropayments, only totaling a few cents at a time. Employees can see their bank account steadily rising throughout a day of work as money streams in every tick. 
 
